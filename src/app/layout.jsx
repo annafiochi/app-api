@@ -1,7 +1,7 @@
 import "./globals.css";
 export const metadata = {
-    title: "escreva o TÍTULO para aparecer na aba do navegador",
-    description: "Projeto pra mostrar tudo que eu sei",
+    title: "CineStand Virtual - Estande de Filmes",
+    description: "Seu estande virtual de filmes com as melhores sugestões do cinema",
     icons: {
         icon: "/icons/favicon.ico",
     },

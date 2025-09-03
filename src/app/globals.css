@@ -7,3 +7,13 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+body {
+  background: #061737;
+  min-height: 100vh;
+  color: white;
+}
+
+html {
+  height: 100%;
+}
+
